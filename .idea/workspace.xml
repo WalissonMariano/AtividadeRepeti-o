@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d382a252-0385-4f5f-9058-7a9ff1b3f33b" name="Changes" comment="AtividadeRepetiçã" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Aividade2Repeticao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Atividade1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Atividade4.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Atividade6.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Atividade7.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Atividade9.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2FeBYUovAXhWAMx3DSJp0gwl1Em" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/walisson/Área de Trabalho/Atividades/Fabricio/ExerciciosRepeticaoJava",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Atividade4">
+    <configuration name="Atividade10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade10" />
+      <module name="ExerciciosRepeticaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade4" />
+      <module name="ExerciciosRepeticaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade7" />
+      <module name="ExerciciosRepeticaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade8" />
+      <module name="ExerciciosRepeticaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade8teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade8teste" />
+      <module name="ExerciciosRepeticaoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="ScalaAmmoniteRunConfigurationType" factoryName="Ammonite">
+      <setting name="execName" value="amm" />
+      <setting name="fileName" value="" />
+      <setting name="scriptParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Ammonite.Unnamed" />
+      <item itemvalue="Application.Atividade4" />
+      <item itemvalue="Application.Atividade10" />
+      <item itemvalue="Application.Atividade8" />
+      <item itemvalue="Application.Atividade8teste" />
+      <item itemvalue="Application.Atividade7" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Atividade4" />
+        <item itemvalue="Application.Atividade10" />
+        <item itemvalue="Application.Atividade7" />
+        <item itemvalue="Application.Atividade8" />
+        <item itemvalue="Application.Atividade8teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d382a252-0385-4f5f-9058-7a9ff1b3f33b" name="Changes" comment="" />
+      <created>1664842719180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664842719180</updated>
+    </task>
+    <task id="LOCAL-00001" summary="AtividadeRepetição">
+      <created>1667272859921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667272859921</updated>
+    </task>
+    <task id="LOCAL-00002" summary="AtividadeRepetiçã">
+      <created>1667273156937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667273156937</updated>
+    </task>
+    <task id="LOCAL-00003" summary="AtividadeRepetiçã">
+      <created>1668467203506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668467203506</updated>
+    </task>
+    <task id="LOCAL-00004" summary="AtividadeRepetiçã">
+      <created>1668467319322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668467319322</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atividade Repetição" />
+    <MESSAGE value="AtividadeRepetição" />
+    <MESSAGE value="AtividadeRepeticao" />
+    <MESSAGE value="AtividadeRepetiçã" />
+    <option name="LAST_COMMIT_MESSAGE" value="AtividadeRepetiçã" />
+  </component>
+</project>
